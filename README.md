@@ -1,6 +1,10 @@
 # Deep Reinforcement Learning
 
+### Stanford CS234: Reinforcement Learning
 
+Lecture Series. Stanford CS234: Reinforcement Learning (Winter 2019)  - with Prof. Emma Brunskill
+
+[[YouTube]](https://www.youtube.com/watch?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&v=FgzM3zpZ55o)
 
 ### An Introduction to Deep Reinforcement Learning (2018)
 Vincent Francois-Lavet, Peter Henderson, Riashat Islam, Marc G. Bellemare, Joelle Pineau
