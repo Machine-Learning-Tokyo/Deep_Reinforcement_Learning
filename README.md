@@ -17,6 +17,6 @@ Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorf
 [[GitHub]](https://github.com/dennybritz/reinforcement-learning)
 
 ### Spinning Up in Deep RL
-OpenAI
+Educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL). It includes the following resources:
 
 [[Webpage]](https://spinningup.openai.com)
