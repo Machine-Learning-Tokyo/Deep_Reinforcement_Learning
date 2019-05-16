@@ -27,6 +27,11 @@ Vincent Francois-Lavet, Peter Henderson, Riashat Islam, Marc G. Bellemare, Joell
 
 [[PDF Book manuscript, Nov 2018]](https://arxiv.org/abs/1811.12560)
 
+### Reinforcement Learning Book
+Written by [Richard Sutton](http://incompleteideas.net/index.html) and [Andrew Barto](http://www-anw.cs.umass.edu/~barto/). 
+
+[[Webpage]](http://incompleteideas.net/book/the-book-2nd.html) [[PDF]](http://incompleteideas.net/book/RLbook2018.pdf) [[Goodreads]](https://www.goodreads.com/book/show/39813875-reinforcement-learning)
+
 ### Denny Britz: Reinforcement Learning
 Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course. All code is written in Python 3 and uses RL environments from OpenAI Gym. Advanced techniques use Tensorflow for neural network implementations.
 
