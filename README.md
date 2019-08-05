@@ -1,5 +1,10 @@
 # Deep Reinforcement Learning
 
+### Introduction to Reinforcement Learning with David Silver, DeepMind
+Watch the lectures from DeepMind research lead David Silver's course on reinforcement learning, taught at University College London.
+
+[[Video lectures]](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+
 ### Deep Reinforcement Learning: A Brief Survey
 Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, Anil Anthony Bharath
 
