@@ -90,6 +90,15 @@ Instructor : David Silver
 [Youtube](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 
 
+### Deep RL Bootcamp, Berkeley (2017)
+By Pieter Abbeel, Chelsea Finn, Peter Chen, Andrej Karpathy et al.
+
+[[Webpage]](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+
+<p align="center">
+  <img src="https://github.com/Machine-Learning-Tokyo/Deep_Reinforcement_Learning/blob/master/deep_rl_bootcamp.png" width="1000">
+</p>
+
 ### Reinforcement Learning Book
 Written by [Richard Sutton](http://incompleteideas.net/index.html) and [Andrew Barto](http://www-anw.cs.umass.edu/~barto/). 
 
