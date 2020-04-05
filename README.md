@@ -43,6 +43,52 @@ Vincent Francois-Lavet, Peter Henderson, Riashat Islam, Marc G. Bellemare, Joell
 
 [[PDF Book manuscript, Nov 2018]](https://arxiv.org/abs/1811.12560)
 
+### CS294-112 Deep Reinforcement Learning
+
+Lecture Series. UC Berkeley. Fall 2018. 
+
+Instructor : Sergey Levine
+
+[Webpage](http://rail.eecs.berkeley.edu/deeprlcourse/)
+[Youtube](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
+
+
+### CS885 Reinforcement Learning
+Lecture Series. University of Waterloo. Spring 2018
+
+Instructor: Pascal Poupart
+
+[Webpage](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/)
+[Youtube](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc)
+
+### Advanced Deep Learning & Reinforcement Learning
+
+Deepmind 2018.
+
+[Youtube](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+
+### RLSS 2018
+Toronto 2018.
+
+[Videos](http://videolectures.net/DLRLsummerschool2018_toronto/)
+
+### RLSS 2017
+Montreal 2017.
+
+[Videos](http://videolectures.net/deeplearning2017_montreal/)
+
+### Deep RL Bootcamp
+Berkeley CA. Aug 2017
+
+[Slides & Videos](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+ 
+### Introduction to Reinforcement Learning
+DeepMind, 2015
+
+Instructor : David Silver
+
+[Youtube](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+
 
 ### Deep RL Bootcamp, Berkeley (2017)
 By Pieter Abbeel, Chelsea Finn, Peter Chen, Andrej Karpathy et al.
@@ -52,8 +98,6 @@ By Pieter Abbeel, Chelsea Finn, Peter Chen, Andrej Karpathy et al.
 <p align="center">
   <img src="https://github.com/Machine-Learning-Tokyo/Deep_Reinforcement_Learning/blob/master/deep_rl_bootcamp.png" width="1000">
 </p>
-
-
 
 ### Reinforcement Learning Book
 Written by [Richard Sutton](http://incompleteideas.net/index.html) and [Andrew Barto](http://www-anw.cs.umass.edu/~barto/). 
