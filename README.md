@@ -19,7 +19,11 @@ Watch the lectures from DeepMind research lead David Silver's course on reinforc
 ### Deep Reinforcement Learning: A Brief Survey
 Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, Anil Anthony Bharath
 
-[[Paper]](https://www.gwern.net/docs/rl/2017-arulkumaran.pdf)
+- [[Paper]](https://arxiv.org/abs/1708.05866)
+- [IEEE Signal Processing Magazine | November 2017](https://ieeexplore.ieee.org/document/8103164)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Deep_Reinforcement_Learning/blob/master/deep_rl_survey.png" width="600"></p>](https://arxiv.org/abs/1708.05866)
+
 
 ### Spinning Up in Deep RL
 Educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL). It includes the following resources:
